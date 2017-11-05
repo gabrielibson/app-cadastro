@@ -3,6 +3,8 @@
   "description": "",
   "homepage": "https://stackblitz.com/edit/angular-8eazrs",
   "dependencies": {
+    "@angular/cli": "1.2.1",
+    "@angular/compiler-cli": "^4.0.0",
     "@angular/animations": "5.0.0",
     "@angular/common": "4.3.6",
     "@angular/compiler": "4.3.6",
@@ -32,8 +34,6 @@
   },
   "private": true,
   "devDependencies": {
-    "@angular/cli": "1.2.1",
-    "@angular/compiler-cli": "^4.0.0",
     "@angular/language-service": "^4.0.0",
     "@types/jasmine": "~2.5.53",
     "@types/jasminewd2": "~2.0.2",
